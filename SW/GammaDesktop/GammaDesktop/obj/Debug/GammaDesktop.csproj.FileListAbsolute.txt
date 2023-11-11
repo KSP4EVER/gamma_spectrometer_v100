@@ -1,0 +1,10 @@
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\bin\Debug\GammaDesktop.exe.config
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\bin\Debug\GammaDesktop.exe
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\bin\Debug\GammaDesktop.pdb
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\obj\Debug\GammaDesktop.csproj.AssemblyReference.cache
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\obj\Debug\GammaDesktop.Form1.resources
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\obj\Debug\GammaDesktop.Properties.Resources.resources
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\obj\Debug\GammaDesktop.csproj.GenerateResource.cache
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\obj\Debug\GammaDesktop.csproj.CoreCompileInputs.cache
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\obj\Debug\GammaDesktop.exe
+E:\gamma_spectrometer\SW\GammaDesktop\GammaDesktop\obj\Debug\GammaDesktop.pdb

@@ -1,0 +1,9 @@
+fatfs_sd.c:87:13:SD_PowerOn	8
+fatfs_sd.c:137:13:SD_RxDataBlock	9
+fatfs_sd.c:166:13:SD_TxDataBlock.part.0	11
+fatfs_sd.c:208:13:SD_SendCmd	16
+fatfs_sd.c:247:9:SD_disk_initialize	26
+fatfs_sd.c:347:9:SD_disk_status	2
+fatfs_sd.c:354:9:SD_disk_read	11
+fatfs_sd.c:396:9:SD_disk_write	24
+fatfs_sd.c:451:9:SD_disk_ioctl	25
